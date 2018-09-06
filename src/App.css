@@ -1,0 +1,14 @@
+body {
+	background: black;
+	color: white;
+}
+
+.App {
+	text-align:center;
+	padding:5%;
+}
+
+.app-title {
+	font-size: 36px;
+	font-weight:bold;
+}
